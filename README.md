@@ -19,7 +19,7 @@
 
 <b>ENTRY-LEVEL<b>
 ---
-![](https://github.com/Call-Me-Alex/Assets/blob/main/Photos/C-Sharp.png)
+![](https://github.com/Call-Me-Alex/Call-Me-Alex/blob/main/Assets/Photos/C-Sharp.png)
 ![](https://github.com/meemknight/photos/blob/master/blender.png)
 ![](https://github.com/meemknight/photos/blob/master/python.png)
 ![](https://github.com/meemknight/photos/blob/master/github.png)
