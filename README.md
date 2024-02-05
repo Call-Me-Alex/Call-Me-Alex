@@ -28,10 +28,15 @@
 ![](https://github.com/meemknight/photos/blob/master/linux.png)
 ![](https://github.com/meemknight/photos/blob/master/unity.png)
 ![](https://github.com/meemknight/photos/blob/master/davinci.png)
-</p>
 
-<br>
+<b>STATS<b> 
+  ---
 ![CallMeAlex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Call-Me-Alex&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Call-Me-Alex)](https://github.com/anuraghazra/github-readme-stats)
 </br>
+</p>
+
+
+
+
 # [My Resume](WIP)
