@@ -30,9 +30,6 @@
 ![](https://github.com/meemknight/photos/blob/master/davinci.png)
 </p>
 </br>
-<b>TEST<b>
----
-</br>
 
 ![CallMeAlex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Call-Me-Alex&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Call-Me-Alex)](https://github.com/anuraghazra/github-readme-stats)
