@@ -29,6 +29,7 @@
 ![](https://github.com/meemknight/photos/blob/master/unity.png)
 ![](https://github.com/meemknight/photos/blob/master/davinci.png)
 </p>
+<b>
 </br>
 
 ![CallMeAlex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Call-Me-Alex&count_private=true)
