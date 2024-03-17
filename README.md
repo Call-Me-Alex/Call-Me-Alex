@@ -6,7 +6,7 @@
 
 <b>EXPERIENCED<b>
   ---
-![](https://skillicons.dev/icons?i=windows,visualstudio,cpp,opengl,csharp,blender,python,github,cmake,java,linux,unity,davinci)
+![](https://skillicons.dev/icons?i=windows,visualstudio,cpp,opengl,cs,blender,python,github,cmake,java,linux,unity,davinci)
 </br>
 
 
