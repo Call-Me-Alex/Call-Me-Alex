@@ -6,9 +6,7 @@
 
 <b>EXPERIENCED<b>
   ---
-![](https://skillicons.dev/icons?i=js,windows,visualstudio,cpp)
-![](https://github.com/meemknight/photos/blob/master/windows.png)
-![](https://github.com/meemknight/photos/blob/master/visualStudio.png)
+![](https://skillicons.dev/icons?i=windows,visualstudio,cpp)
 </br>
 
 
