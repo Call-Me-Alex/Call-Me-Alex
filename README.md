@@ -6,7 +6,7 @@
 
 <b>EXPERIENCED<b>
   ---
-![](https://github.com/meemknight/photos/blob/master/cpp.png)
+![](https://skillicons.dev/icons?i=js,html,css,wasm)]
 ![](https://github.com/meemknight/photos/blob/master/windows.png)
 ![](https://github.com/meemknight/photos/blob/master/visualStudio.png)
 </br>
