@@ -12,7 +12,7 @@
 
 <b>PROFICIENT<b> 
   ---
-![](https://github.com/meemknight/photos/blob/master/opengl.png)
+![](https://skillicons.dev/icons?i=windows,opengl,cpp)
 </br>
 
 <b>ENTRY-LEVEL<b>
