@@ -6,13 +6,13 @@
 
 <b>EXPERIENCED<b>
   ---
-![](https://skillicons.dev/icons?i=windows,visualstudio,cpp)
+![](https://skillicons.dev/icons?i=windows,visualstudio,cpp,opengl,csharp,blender,python,github,cmake,java,linux,unity,davinci)
 </br>
 
 
 <b>PROFICIENT<b> 
   ---
-![](https://skillicons.dev/icons?i=windows,opengl,cpp)
+![](https://skillicons.dev/icons?i=opengl)
 </br>
 
 <b>ENTRY-LEVEL<b>
