@@ -10,4 +10,4 @@
 </br>
 </p>
 
-# [My Resume](https://alexdynamics.site/)
+# [Website](https://alexdynamics.site/)
