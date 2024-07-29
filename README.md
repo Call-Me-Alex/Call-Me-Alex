@@ -2,7 +2,7 @@
 
 # Skills
 
-![](https://skillicons.dev/icons?i=github,windows,linux,neovim,archlinux,robloxstudio,visualstudio,cpp,cs,cmake,unreal,unity,blender,davinci)
+![](https://skillicons.dev/icons?i=github,windows,linux,neovim,arch,robloxstudio,visualstudio,cpp,cs,cmake,unreal,unity,blender,davinci)
 
 # Stats
   ---
