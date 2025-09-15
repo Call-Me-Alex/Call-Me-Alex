@@ -1,8 +1,8 @@
 <p align="center">
 
-# Skills
+# Tools
 
-![](https://skillicons.dev/icons?i=git,github,windows,linux,arch,neovim,zig,c,cpp,cs,lua,cmake,robloxstudio,blender,davinci)
+![](https://skillicons.dev/icons?i=git,linux,neovim,zig,c,robloxstudio,blender)
 
 # Stats
 
