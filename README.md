@@ -2,7 +2,7 @@
 
 # Tools
 
-![](https://skillicons.dev/icons?i=git,linux,neovim,zig,c,robloxstudio,blender)
+![](https://skillicons.dev/icons?i=git,linux,neovim,zig,c,blender)
 
 # Stats
 
